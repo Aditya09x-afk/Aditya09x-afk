@@ -3,10 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya09x-afk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Aditya09x-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya09x-afk&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Aditya09x-afk&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya09x-afk&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h4 align="left">Tools that I have used:</h4>
 
 ###
 
@@ -29,6 +32,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h4 align="left">Social Links:</h4>
 
 ###
 
