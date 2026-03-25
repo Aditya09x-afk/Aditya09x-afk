@@ -1,4 +1,4 @@
-<h3 align="center">Hello there! I am Aditya Bhadauria an aspiring Data Analyst who is passionate about producing actionable insights.</h3>
+<h3 align="center">Hello there! I am Aditya Bhadauria an aspiring Data Analyst who is passionate about producing actionable insights through data.</h3>
 
 ###
 
